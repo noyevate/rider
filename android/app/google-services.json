@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "821351982480",
+    "project_id": "chopnow-5110f",
+    "storage_bucket": "chopnow-5110f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821351982480:android:7daca2283bc1118001bf15",
+        "android_client_info": {
+          "package_name": "com.example.testing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsQ2VxR7zU6JJ_q0Fy2Tpcc2D80cUH94c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821351982480:android:46c0b6ae9a7d41a901bf15",
+        "android_client_info": {
+          "package_name": "com.notify.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsQ2VxR7zU6JJ_q0Fy2Tpcc2D80cUH94c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821351982480:android:967d976b4cb09ae701bf15",
+        "android_client_info": {
+          "package_name": "io.nobsafrica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsQ2VxR7zU6JJ_q0Fy2Tpcc2D80cUH94c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821351982480:android:759b7bf87a967a3b01bf15",
+        "android_client_info": {
+          "package_name": "io.webflow.nobsafrica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsQ2VxR7zU6JJ_q0Fy2Tpcc2D80cUH94c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821351982480:android:2b3eb5fa8f3a72be01bf15",
+        "android_client_info": {
+          "package_name": "io.webflow.nobsafrica.chopnow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsQ2VxR7zU6JJ_q0Fy2Tpcc2D80cUH94c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821351982480:android:e809dcdccb6ab5d201bf15",
+        "android_client_info": {
+          "package_name": "io.webflow.nobsafrica.chopnow_customer_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsQ2VxR7zU6JJ_q0Fy2Tpcc2D80cUH94c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821351982480:android:3e8c2e9b9c296ecb01bf15",
+        "android_client_info": {
+          "package_name": "io.webflow.nobsafrica.chopnow_restaurant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsQ2VxR7zU6JJ_q0Fy2Tpcc2D80cUH94c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821351982480:android:c3d22ef14e7c49f501bf15",
+        "android_client_info": {
+          "package_name": "io.webflow.nobsafrica.delivery_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsQ2VxR7zU6JJ_q0Fy2Tpcc2D80cUH94c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
